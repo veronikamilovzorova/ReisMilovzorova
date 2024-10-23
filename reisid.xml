@@ -1,0 +1,541 @@
+﻿<reisid>
+	<reis transport="Torp-Marvin">
+		<details>
+			<transport>Torp-Marvin</transport>
+			<lahtekoht>Pappadátes</lahtekoht>
+			<saabumsiskoht>Yubilyeyny</saabumsiskoht>
+			<hind>337.7</hind>
+			<kuupaev>2023-12-10</kuupaev>
+			<väljumisaeg>5:39 AM</väljumisaeg>
+			<lennufirma>Aubenas-Ardèche Méridional Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Wisozk-Mann">
+		<details>
+			<transport>Wisozk-Mann</transport>
+			<lahtekoht>Boshan</lahtekoht>
+			<saabumsiskoht>Cabeço</saabumsiskoht>
+			<hind>155.4</hind>
+			<kuupaev>2024-08-21</kuupaev>
+			<väljumisaeg>8:50 AM</väljumisaeg>
+			<lennufirma>Bumi Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Kling LLC">
+		<details>
+			<transport>Kling LLC</transport>
+			<lahtekoht>Rungis</lahtekoht>
+			<saabumsiskoht>Marco</saabumsiskoht>
+			<hind>374.2</hind>
+			<kuupaev>2024-07-10</kuupaev>
+			<väljumisaeg>11:03 PM</väljumisaeg>
+			<lennufirma>Tokushima Airport/JMSDF Air Base</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Larson and Sons">
+		<details>
+			<transport>Larson and Sons</transport>
+			<lahtekoht>Rybnoye</lahtekoht>
+			<saabumsiskoht>Aix-en-Provence</saabumsiskoht>
+			<hind>184.3</hind>
+			<kuupaev>2024-11-07</kuupaev>
+			<väljumisaeg>7:10 AM</väljumisaeg>
+			<lennufirma>Lake County Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Flatley, Conroy and Williamson">
+		<details>
+			<transport>Flatley, Conroy and Williamson</transport>
+			<lahtekoht>Trondheim</lahtekoht>
+			<saabumsiskoht>Samdo</saabumsiskoht>
+			<hind>448.3</hind>
+			<kuupaev>2024-12-15</kuupaev>
+			<väljumisaeg>2:48 AM</väljumisaeg>
+			<lennufirma>Memorial Field</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Nikolaus, Schoen and Ritchie">
+		<details>
+			<transport>Nikolaus, Schoen and Ritchie</transport>
+			<lahtekoht>Irkutsk</lahtekoht>
+			<saabumsiskoht>Santo Domingo Este</saabumsiskoht>
+			<hind>171.8</hind>
+			<kuupaev>2024-06-11</kuupaev>
+			<väljumisaeg>11:18 AM</väljumisaeg>
+			<lennufirma>Libreville Leon M'ba International Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Keeling, Kerluke and Runolfsdottir">
+		<details>
+			<transport>Keeling, Kerluke and Runolfsdottir</transport>
+			<lahtekoht>Santos Dumont</lahtekoht>
+			<saabumsiskoht>Kuidou</saabumsiskoht>
+			<hind>325.1</hind>
+			<kuupaev>2024-01-11</kuupaev>
+			<väljumisaeg>2:32 PM</väljumisaeg>
+			<lennufirma>Columbia Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Harvey Inc">
+		<details>
+			<transport>Harvey Inc</transport>
+			<lahtekoht>General La Madrid</lahtekoht>
+			<saabumsiskoht>Melíssi</saabumsiskoht>
+			<hind>425.4</hind>
+			<kuupaev>2024-05-09</kuupaev>
+			<väljumisaeg>1:29 PM</väljumisaeg>
+			<lennufirma>Charles B. Wheeler Downtown Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Hodkiewicz Inc">
+		<details>
+			<transport>Hodkiewicz Inc</transport>
+			<lahtekoht>Choa Saidan Shah</lahtekoht>
+			<saabumsiskoht>Heshan</saabumsiskoht>
+			<hind>543.6</hind>
+			<kuupaev>2024-05-30</kuupaev>
+			<väljumisaeg>5:56 PM</väljumisaeg>
+			<lennufirma>Mesquite Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Wunsch-Hirthe">
+		<details>
+			<transport>Wunsch-Hirthe</transport>
+			<lahtekoht>Bodiosa a Velha</lahtekoht>
+			<saabumsiskoht>Lukashin</saabumsiskoht>
+			<hind>312.0</hind>
+			<kuupaev>2024-10-26</kuupaev>
+			<väljumisaeg>4:48 AM</väljumisaeg>
+			<lennufirma>Minden-Tahoe Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Moen-Thompson">
+		<details>
+			<transport>Moen-Thompson</transport>
+			<lahtekoht>Melikkrajan</lahtekoht>
+			<saabumsiskoht>Seara</saabumsiskoht>
+			<hind>121.0</hind>
+			<kuupaev>2023-12-18</kuupaev>
+			<väljumisaeg>1:51 PM</väljumisaeg>
+			<lennufirma>Poplar Bluff Municipal Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Dach, Moore and Fritsch">
+		<details>
+			<transport>Dach, Moore and Fritsch</transport>
+			<lahtekoht>San Diego</lahtekoht>
+			<saabumsiskoht>Kallíthiron</saabumsiskoht>
+			<hind>466.2</hind>
+			<kuupaev>2024-07-10</kuupaev>
+			<väljumisaeg>7:13 PM</väljumisaeg>
+			<lennufirma>Mesa Del Rey Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Davis and Sons">
+		<details>
+			<transport>Davis and Sons</transport>
+			<lahtekoht>Korsun’-Shevchenkivs’kyy</lahtekoht>
+			<saabumsiskoht>Napanee Downtown</saabumsiskoht>
+			<hind>161.8</hind>
+			<kuupaev>2024-03-24</kuupaev>
+			<väljumisaeg>10:51 AM</väljumisaeg>
+			<lennufirma>Okaba Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Miller, Balistreri and Metz">
+		<details>
+			<transport>Miller, Balistreri and Metz</transport>
+			<lahtekoht>Ciseda</lahtekoht>
+			<saabumsiskoht>Welchman Hall</saabumsiskoht>
+			<hind>251.8</hind>
+			<kuupaev>2024-05-18</kuupaev>
+			<väljumisaeg>3:21 PM</väljumisaeg>
+			<lennufirma>Aropa Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Douglas, Treutel and Lubowitz">
+		<details>
+			<transport>Douglas, Treutel and Lubowitz</transport>
+			<lahtekoht>Ulan Hua</lahtekoht>
+			<saabumsiskoht>Tieremu</saabumsiskoht>
+			<hind>172.6</hind>
+			<kuupaev>2023-11-10</kuupaev>
+			<väljumisaeg>5:21 AM</väljumisaeg>
+			<lennufirma>Batticaloa Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Nienow and Sons">
+		<details>
+			<transport>Nienow and Sons</transport>
+			<lahtekoht>Odolanów</lahtekoht>
+			<saabumsiskoht>Postojna</saabumsiskoht>
+			<hind>146.0</hind>
+			<kuupaev>2024-08-16</kuupaev>
+			<väljumisaeg>10:01 AM</väljumisaeg>
+			<lennufirma>Gandajika Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Dicki-Rowe">
+		<details>
+			<transport>Dicki-Rowe</transport>
+			<lahtekoht>Brikama Nding</lahtekoht>
+			<saabumsiskoht>Lubowidz</saabumsiskoht>
+			<hind>215.8</hind>
+			<kuupaev>2023-10-27</kuupaev>
+			<väljumisaeg>9:45 AM</väljumisaeg>
+			<lennufirma>Angel Albino Corzo International Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Erdman-Morar">
+		<details>
+			<transport>Erdman-Morar</transport>
+			<lahtekoht>Sävsjö</lahtekoht>
+			<saabumsiskoht>Huiyuan</saabumsiskoht>
+			<hind>245.6</hind>
+			<kuupaev>2024-07-28</kuupaev>
+			<väljumisaeg>5:37 AM</väljumisaeg>
+			<lennufirma>Votuporanga Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Sporer-Gutmann">
+		<details>
+			<transport>Sporer-Gutmann</transport>
+			<lahtekoht>Kasukabe</lahtekoht>
+			<saabumsiskoht>Isnos</saabumsiskoht>
+			<hind>134.4</hind>
+			<kuupaev>2024-05-15</kuupaev>
+			<väljumisaeg>6:36 PM</väljumisaeg>
+			<lennufirma>Bartica A Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Walker Inc">
+		<details>
+			<transport>Walker Inc</transport>
+			<lahtekoht>Bordeaux</lahtekoht>
+			<saabumsiskoht>Ballina</saabumsiskoht>
+			<hind>195.0</hind>
+			<kuupaev>2024-11-12</kuupaev>
+			<väljumisaeg>3:10 PM</väljumisaeg>
+			<lennufirma>Al Taqaddum Air Base</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Spencer Group">
+		<details>
+			<transport>Spencer Group</transport>
+			<lahtekoht>Kotlovka</lahtekoht>
+			<saabumsiskoht>Harstad</saabumsiskoht>
+			<hind>497.9</hind>
+			<kuupaev>2024-07-22</kuupaev>
+			<väljumisaeg>6:59 PM</väljumisaeg>
+			<lennufirma>Vicksburg Municipal Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Yost, Cummings and Reichert">
+		<details>
+			<transport>Yost, Cummings and Reichert</transport>
+			<lahtekoht>Baytin</lahtekoht>
+			<saabumsiskoht>Odivelas</saabumsiskoht>
+			<hind>241.0</hind>
+			<kuupaev>2024-08-02</kuupaev>
+			<väljumisaeg>1:02 PM</väljumisaeg>
+			<lennufirma>Neumünster Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Klein-Haley">
+		<details>
+			<transport>Klein-Haley</transport>
+			<lahtekoht>Chão de Couce</lahtekoht>
+			<saabumsiskoht>Smínthi</saabumsiskoht>
+			<hind>295.5</hind>
+			<kuupaev>2024-03-01</kuupaev>
+			<väljumisaeg>11:44 AM</väljumisaeg>
+			<lennufirma>Hattiesburg Bobby L Chain Municipal Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Hilll, Crooks and Mosciski">
+		<details>
+			<transport>Hilll, Crooks and Mosciski</transport>
+			<lahtekoht>Ma’an</lahtekoht>
+			<saabumsiskoht>Veldhoven</saabumsiskoht>
+			<hind>396.5</hind>
+			<kuupaev>2024-08-25</kuupaev>
+			<väljumisaeg>6:24 PM</väljumisaeg>
+			<lennufirma>Ampampamena Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="O'Keefe-Ziemann">
+		<details>
+			<transport>O'Keefe-Ziemann</transport>
+			<lahtekoht>Pivka</lahtekoht>
+			<saabumsiskoht>Pizhma</saabumsiskoht>
+			<hind>347.2</hind>
+			<kuupaev>2024-05-01</kuupaev>
+			<väljumisaeg>6:00 AM</väljumisaeg>
+			<lennufirma>Ivujivik Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Langosh and Sons">
+		<details>
+			<transport>Langosh and Sons</transport>
+			<lahtekoht>Batatais</lahtekoht>
+			<saabumsiskoht>Sanfins</saabumsiskoht>
+			<hind>383.2</hind>
+			<kuupaev>2023-12-24</kuupaev>
+			<väljumisaeg>6:24 AM</väljumisaeg>
+			<lennufirma>John H Batten Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Hane LLC">
+		<details>
+			<transport>Hane LLC</transport>
+			<lahtekoht>Gonghe</lahtekoht>
+			<saabumsiskoht>Radenka</saabumsiskoht>
+			<hind>327.5</hind>
+			<kuupaev>2024-06-28</kuupaev>
+			<väljumisaeg>1:19 PM</väljumisaeg>
+			<lennufirma>Wyk auf Föhr Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Feest-Hegmann">
+		<details>
+			<transport>Feest-Hegmann</transport>
+			<lahtekoht>Várzea</lahtekoht>
+			<saabumsiskoht>Santa Helena</saabumsiskoht>
+			<hind>388.0</hind>
+			<kuupaev>2024-04-30</kuupaev>
+			<väljumisaeg>2:57 PM</väljumisaeg>
+			<lennufirma>Igrim Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Schimmel Group">
+		<details>
+			<transport>Schimmel Group</transport>
+			<lahtekoht>Haninge</lahtekoht>
+			<saabumsiskoht>Sarukhan</saabumsiskoht>
+			<hind>280.3</hind>
+			<kuupaev>2023-12-22</kuupaev>
+			<väljumisaeg>2:11 AM</väljumisaeg>
+			<lennufirma>Malaimbandy Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Crist, Legros and Tremblay">
+		<details>
+			<transport>Crist, Legros and Tremblay</transport>
+			<lahtekoht>Bunobogu</lahtekoht>
+			<saabumsiskoht>Santa Catalina - Dique Lujan</saabumsiskoht>
+			<hind>255.3</hind>
+			<kuupaev>2024-04-25</kuupaev>
+			<väljumisaeg>3:04 AM</väljumisaeg>
+			<lennufirma>Stella Maris Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Koch LLC">
+		<details>
+			<transport>Koch LLC</transport>
+			<lahtekoht>Xuanhua</lahtekoht>
+			<saabumsiskoht>Nonsan</saabumsiskoht>
+			<hind>422.9</hind>
+			<kuupaev>2024-02-25</kuupaev>
+			<väljumisaeg>5:01 PM</väljumisaeg>
+			<lennufirma>CFB Trenton</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Nicolas Group">
+		<details>
+			<transport>Nicolas Group</transport>
+			<lahtekoht>Przyborów</lahtekoht>
+			<saabumsiskoht>Edsbyn</saabumsiskoht>
+			<hind>228.8</hind>
+			<kuupaev>2024-02-20</kuupaev>
+			<väljumisaeg>11:11 AM</väljumisaeg>
+			<lennufirma>Ralph Wenz Field</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Klein, Nikolaus and Hessel">
+		<details>
+			<transport>Klein, Nikolaus and Hessel</transport>
+			<lahtekoht>Mizoch</lahtekoht>
+			<saabumsiskoht>Ballivor</saabumsiskoht>
+			<hind>170.4</hind>
+			<kuupaev>2024-09-17</kuupaev>
+			<väljumisaeg>5:46 AM</väljumisaeg>
+			<lennufirma>Siem Reap International Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Cremin Group">
+		<details>
+			<transport>Cremin Group</transport>
+			<lahtekoht>Puncakmanis</lahtekoht>
+			<saabumsiskoht>Amadora</saabumsiskoht>
+			<hind>395.2</hind>
+			<kuupaev>2024-05-07</kuupaev>
+			<väljumisaeg>4:51 PM</väljumisaeg>
+			<lennufirma>China Strait Airstrip</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Runolfsson-Fritsch">
+		<details>
+			<transport>Runolfsson-Fritsch</transport>
+			<lahtekoht>Chaviña</lahtekoht>
+			<saabumsiskoht>Bonao</saabumsiskoht>
+			<hind>403.6</hind>
+			<kuupaev>2024-08-24</kuupaev>
+			<väljumisaeg>1:32 PM</väljumisaeg>
+			<lennufirma>Cupul Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Conn-Cormier">
+		<details>
+			<transport>Conn-Cormier</transport>
+			<lahtekoht>Duoxiang</lahtekoht>
+			<saabumsiskoht>São Martinho</saabumsiskoht>
+			<hind>367.3</hind>
+			<kuupaev>2024-07-12</kuupaev>
+			<väljumisaeg>3:02 PM</väljumisaeg>
+			<lennufirma>Stony River 2 Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Spinka-Stoltenberg">
+		<details>
+			<transport>Spinka-Stoltenberg</transport>
+			<lahtekoht>Marugame</lahtekoht>
+			<saabumsiskoht>Casa Nova</saabumsiskoht>
+			<hind>435.1</hind>
+			<kuupaev>2024-02-15</kuupaev>
+			<väljumisaeg>3:49 PM</väljumisaeg>
+			<lennufirma>Lee C Fine Memorial Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Volkman and Sons">
+		<details>
+			<transport>Volkman and Sons</transport>
+			<lahtekoht>Przybiernów</lahtekoht>
+			<saabumsiskoht>Daliang</saabumsiskoht>
+			<hind>523.1</hind>
+			<kuupaev>2024-11-07</kuupaev>
+			<väljumisaeg>8:14 AM</väljumisaeg>
+			<lennufirma>Barquisimeto International Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Zulauf, Toy and Turner">
+		<details>
+			<transport>Zulauf, Toy and Turner</transport>
+			<lahtekoht>Älvdalen</lahtekoht>
+			<saabumsiskoht>Parigi</saabumsiskoht>
+			<hind>394.8</hind>
+			<kuupaev>2024-06-27</kuupaev>
+			<väljumisaeg>6:29 PM</väljumisaeg>
+			<lennufirma>Dalbandin Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Friesen-Waters">
+		<details>
+			<transport>Friesen-Waters</transport>
+			<lahtekoht>Shuangshi</lahtekoht>
+			<saabumsiskoht>Bol’shoy Kamen’</saabumsiskoht>
+			<hind>544.0</hind>
+			<kuupaev>2024-11-08</kuupaev>
+			<väljumisaeg>2:32 AM</väljumisaeg>
+			<lennufirma>Greeneville-Greene County Municipal Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Morissette-Morar">
+		<details>
+			<transport>Morissette-Morar</transport>
+			<lahtekoht>Angoram</lahtekoht>
+			<saabumsiskoht>Guamal</saabumsiskoht>
+			<hind>512.4</hind>
+			<kuupaev>2023-12-07</kuupaev>
+			<väljumisaeg>1:47 PM</väljumisaeg>
+			<lennufirma>Kasenga Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Toy, Stokes and Welch">
+		<details>
+			<transport>Toy, Stokes and Welch</transport>
+			<lahtekoht>Villeurbanne</lahtekoht>
+			<saabumsiskoht>Yege</saabumsiskoht>
+			<hind>479.9</hind>
+			<kuupaev>2023-12-03</kuupaev>
+			<väljumisaeg>3:08 AM</väljumisaeg>
+			<lennufirma>Tata Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="D'Amore-Johns">
+		<details>
+			<transport>D'Amore-Johns</transport>
+			<lahtekoht>Biguaçu</lahtekoht>
+			<saabumsiskoht>Mörrum</saabumsiskoht>
+			<hind>294.9</hind>
+			<kuupaev>2024-08-26</kuupaev>
+			<väljumisaeg>6:32 AM</väljumisaeg>
+			<lennufirma>Lucélia Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Ledner-Zulauf">
+		<details>
+			<transport>Ledner-Zulauf</transport>
+			<lahtekoht>Paripiranga</lahtekoht>
+			<saabumsiskoht>Ivry-sur-Seine</saabumsiskoht>
+			<hind>420.7</hind>
+			<kuupaev>2024-06-03</kuupaev>
+			<väljumisaeg>10:13 PM</väljumisaeg>
+			<lennufirma>Luang Namtha Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Effertz, Lubowitz and Wunsch">
+		<details>
+			<transport>Effertz, Lubowitz and Wunsch</transport>
+			<lahtekoht>Shchëkino</lahtekoht>
+			<saabumsiskoht>Julcamarca</saabumsiskoht>
+			<hind>153.7</hind>
+			<kuupaev>2024-03-25</kuupaev>
+			<väljumisaeg>10:44 AM</väljumisaeg>
+			<lennufirma>Wattay International Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Cassin-Flatley">
+		<details>
+			<transport>Cassin-Flatley</transport>
+			<lahtekoht>Sagopshi</lahtekoht>
+			<saabumsiskoht>Angers</saabumsiskoht>
+			<hind>505.9</hind>
+			<kuupaev>2024-01-20</kuupaev>
+			<väljumisaeg>5:03 PM</väljumisaeg>
+			<lennufirma>Ghinnir Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Satterfield, Schaden and Boyer">
+		<details>
+			<transport>Satterfield, Schaden and Boyer</transport>
+			<lahtekoht>Ponta da Garça</lahtekoht>
+			<saabumsiskoht>Cheping</saabumsiskoht>
+			<hind>475.8</hind>
+			<kuupaev>2024-11-12</kuupaev>
+			<väljumisaeg>5:49 AM</väljumisaeg>
+			<lennufirma>Katanning Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Quigley-Bernier">
+		<details>
+			<transport>Quigley-Bernier</transport>
+			<lahtekoht>Zakliczyn</lahtekoht>
+			<saabumsiskoht>Acharnés</saabumsiskoht>
+			<hind>331.2</hind>
+			<kuupaev>2024-12-15</kuupaev>
+			<väljumisaeg>1:33 PM</väljumisaeg>
+			<lennufirma>Hamburg-Finkenwerder Airport</lennufirma>
+		</details>
+	</reis>
+	<reis transport="Feest and Sons">
+		<details>
+			<transport>Feest and Sons</transport>
+			<lahtekoht>Longguang</lahtekoht>
+			<saabumsiskoht>Kielczów</saabumsiskoht>
+			<hind>308.8</hind>
+			<kuupaev>2024-09-03</kuupaev>
+			<väljumisaeg>5:19 AM</väljumisaeg>
+			<lennufirma>Ebolowa Airport</lennufirma>
+		</details>
+	</reis>
+</reisid>
