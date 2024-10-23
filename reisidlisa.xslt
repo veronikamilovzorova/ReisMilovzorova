@@ -1,4 +1,4 @@
-﻿<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:msxsl="urn:schemas-microsoft-com:xslt" exclude-result-prefixes="msxsl">
 	<xsl:output method="html" indent="yes" encoding="utf-8"/>
 
@@ -130,8 +130,12 @@
 								</td>
 								<td>
 									<xsl:choose>
+										<!--võimaldab valida ühe mitmest tingimusest ja täita-->
 										<xsl:when test="number(translate(hind, '€', '')) >= 200">
+											<!--võimaldab valida ühe mitmest tingimusest ja täita-->
+											<!--kui hind ("taga") pärast sümboli "€" eemaldamist teisendatakse arvuks ja on suurem kui 200 või sellega võrdne-->
 											<span class="expensive">Kallis reis</span>
+											<!--kasutatakse tekstiosa või elementide rühmitamiseks dokumendis-->
 										</xsl:when>
 										<xsl:otherwise>
 											<span class="cheap">Odav reis</span>
@@ -146,3 +150,4 @@
 		</html>
 	</xsl:template>
 </xsl:stylesheet>
+
